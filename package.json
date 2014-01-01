@@ -1,0 +1,10 @@
+{
+    "name": "ma-todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~3.2.1",
+        "ejs": "~0.8.3",
+        "mongojs": "~0.9.11"
+    },
+    "description": "Un gestionnaire de todolist ultra basique"
+}
